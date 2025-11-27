@@ -41,7 +41,11 @@ ai
 核能
 
 btc
-eth
 比特币
+
+eth
+以太坊
+
 币圈
+
 sol
